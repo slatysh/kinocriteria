@@ -210,3 +210,5 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+src/KC/wwwroot/css/site.min.css
+src/KC/wwwroot/js/site.min.js
