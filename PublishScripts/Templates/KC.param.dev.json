@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "kinocriteria"
+  },
+  "hostingPlanName": {
+    "value": "kinocriteria"
+  },
+  "siteLocation": {
+    "value": "North Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "fd08ba15-af5d-433d-ab0b-53456501e0a7"
+  },
+  "resourceGroup": {
+    "value": "KC"
+  }
+}
